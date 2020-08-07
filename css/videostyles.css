@@ -1,0 +1,17 @@
+  video{
+    max-width: 30%;
+    position: absolute;
+    top: 38px;
+    left: 55%;
+    border: 5px solid #e6a756;
+    resize: auto;
+    
+    
+ }
+
+ .church {
+     width: 700px;
+     height: max-content;
+     resize: auto;
+ }
+
